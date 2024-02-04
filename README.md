@@ -8,3 +8,6 @@ https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 
 3 - Is He Gonna Survive? (3/2/2024) :
 https://www.codewars.com/kata/59ca8246d751df55cc00014c
+
+4 - Sentence Smash (4/2/2024) :
+https://www.codewars.com/kata/53dc23c68a0c93699800041d
