@@ -17,3 +17,6 @@ https://www.codewars.com/kata/5861d28f124b35723e00005e
 
 6 - DNA to RNA Conversion (6/2/2024) :
 https://www.codewars.com/kata/5556282156230d0e5e000089
+
+7 - Count by X (7/2/2024) :
+https://www.codewars.com/kata/5513795bd3fafb56c200049e
