@@ -23,3 +23,6 @@ https://www.codewars.com/kata/5513795bd3fafb56c200049e
 
 8 - If You Can't Sleep, Just Count Sheep!! (8/2/2024) :
 https://www.codewars.com/kata/5b077ebdaf15be5c7f000077
+
+9 - Find Maximum and Minimum Values of a List (9/2/2024) :
+https://www.codewars.com/kata/577a98a6ae28071780000989
