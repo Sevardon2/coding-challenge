@@ -21,3 +21,5 @@
 10 - Convert a String to an Array (10/02/2024) : https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
 
 11 - Rock Paper Scissors! (11/02/2024) : https://www.codewars.com/kata/5672a98bdbdd995fad00000f
+
+12 - Array Plus Array (12/02/2024) : https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
