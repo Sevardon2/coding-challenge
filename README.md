@@ -25,3 +25,5 @@
 12 - Array Plus Array (12/02/2024) : https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
 
 13 - Total Amount of Points (13/02/2024) : https://www.codewars.com/kata/5bb904724c47249b10000131
+
+14 - Grade Book (14/02/2024) : https://www.codewars.com/kata/55cbd4ba903825f7970000f5
