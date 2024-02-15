@@ -27,3 +27,5 @@
 13 - Total Amount of Points (13/02/2024) : https://www.codewars.com/kata/5bb904724c47249b10000131
 
 14 - Grade Book (14/02/2024) : https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+
+15 - Sum Without Highest and Lowest Number (15/02/2024) : https://www.codewars.com/kata/576b93db1129fcf2200001e6
