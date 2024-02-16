@@ -29,3 +29,5 @@
 14 - Grade Book (14/02/2024) : https://www.codewars.com/kata/55cbd4ba903825f7970000f5
 
 15 - Sum Without Highest and Lowest Number (15/02/2024) : https://www.codewars.com/kata/576b93db1129fcf2200001e6
+
+16 - Get the Mean of an Array (16/02/2024) : https://www.codewars.com/kata/563e320cee5dddcf77000158
