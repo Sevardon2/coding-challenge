@@ -31,3 +31,5 @@
 15 - Sum Without Highest and Lowest Number (15/02/2024) : https://www.codewars.com/kata/576b93db1129fcf2200001e6
 
 16 - Get the Mean of an Array (16/02/2024) : https://www.codewars.com/kata/563e320cee5dddcf77000158
+
+17 - Even or Odd (17/02/2024) : https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
