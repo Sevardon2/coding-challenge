@@ -33,3 +33,7 @@
 16 - Get the Mean of an Array (16/02/2024) : https://www.codewars.com/kata/563e320cee5dddcf77000158
 
 17 - Even or Odd (17/02/2024) : https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+
+18 - Reversed Strings (18/02/2024) : https://www.codewars.com/kata/5168bb5dfe9a00b126000018
+
+19 - Days in the Year (19/02/2024) : https://www.codewars.com/kata/56d6c333c9ae3fc32800070f
