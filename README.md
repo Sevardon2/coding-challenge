@@ -37,3 +37,5 @@
 18 - Reversed Strings (18/02/2024) : https://www.codewars.com/kata/5168bb5dfe9a00b126000018
 
 19 - Days in the Year (19/02/2024) : https://www.codewars.com/kata/56d6c333c9ae3fc32800070f
+
+20 - Area or Perimeter (20/02/2024) : https://www.codewars.com/kata/5ab6538b379d20ad880000ab
