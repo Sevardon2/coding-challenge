@@ -39,3 +39,5 @@
 19 - Days in the Year (19/02/2024) : https://www.codewars.com/kata/56d6c333c9ae3fc32800070f
 
 20 - Area or Perimeter (20/02/2024) : https://www.codewars.com/kata/5ab6538b379d20ad880000ab
+
+21 - Combine Strings (21/02/2024) : https://www.codewars.com/kata/55f73f66d160f1f1db000059
