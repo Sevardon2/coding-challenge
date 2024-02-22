@@ -41,3 +41,5 @@
 20 - Area or Perimeter (20/02/2024) : https://www.codewars.com/kata/5ab6538b379d20ad880000ab
 
 21 - Combine Strings (21/02/2024) : https://www.codewars.com/kata/55f73f66d160f1f1db000059
+
+22 - Personalized Message (22/02/2024) : https://www.codewars.com/kata/5772da22b89313a4d50012f7
