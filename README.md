@@ -43,3 +43,5 @@
 21 - Combine Strings (21/02/2024) : https://www.codewars.com/kata/55f73f66d160f1f1db000059
 
 22 - Personalized Message (22/02/2024) : https://www.codewars.com/kata/5772da22b89313a4d50012f7
+
+23 - Sum of Positive (23/02/2024) : https://www.codewars.com/kata/5715eaedb436cf5606000381
