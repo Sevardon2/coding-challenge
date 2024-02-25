@@ -47,3 +47,5 @@
 23 - Sum of Positive (23/02/2024) : https://www.codewars.com/kata/5715eaedb436cf5606000381
 
 24 - Convert Boolean Values to Strings Yes or No (24/02/2024) : https://www.codewars.com/kata/53369039d7ab3ac506000467
+
+25 - Remove First and Last Character (25/02/2024) : https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
