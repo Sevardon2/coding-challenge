@@ -51,3 +51,5 @@
 25 - Remove First and Last Character (25/02/2024) : https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0
 
 26 - Return Negative (26/02/2024) : https://www.codewars.com/kata/55685cd7ad70877c23000102
+
+27 - Square(n) Sum (27/02/2024) : https://www.codewars.com/kata/515e271a311df0350d00000f
