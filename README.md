@@ -53,3 +53,5 @@
 26 - Return Negative (26/02/2024) : https://www.codewars.com/kata/55685cd7ad70877c23000102
 
 27 - Square(n) Sum (27/02/2024) : https://www.codewars.com/kata/515e271a311df0350d00000f
+
+28 - Opposite Number (28/02/2024) : https://www.codewars.com/kata/56dec885c54a926dcd001095
