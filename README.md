@@ -55,3 +55,5 @@
 27 - Square(n) Sum (27/02/2024) : https://www.codewars.com/kata/515e271a311df0350d00000f
 
 28 - Opposite Number (28/02/2024) : https://www.codewars.com/kata/56dec885c54a926dcd001095
+
+29 - String Repeat (29/02/2024) : https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
