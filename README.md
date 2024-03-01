@@ -57,3 +57,5 @@
 28 - Opposite Number (28/02/2024) : https://www.codewars.com/kata/56dec885c54a926dcd001095
 
 29 - String Repeat (29/02/2024) : https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+
+30 - Sum Mixed Array (01/03/2024) : https://www.codewars.com/kata/57eaeb9578748ff92a000009
