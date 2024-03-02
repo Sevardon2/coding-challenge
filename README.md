@@ -59,3 +59,5 @@
 29 - String Repeat (29/02/2024) : https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 
 30 - Sum Mixed Array (01/03/2024) : https://www.codewars.com/kata/57eaeb9578748ff92a000009
+
+31 - Remove String Spaces (02/03/2024) : https://www.codewars.com/kata/57eae20f5500ad98e50002c5
