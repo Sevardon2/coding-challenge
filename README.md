@@ -61,3 +61,5 @@
 30 - Sum Mixed Array (01/03/2024) : https://www.codewars.com/kata/57eaeb9578748ff92a000009
 
 31 - Remove String Spaces (02/03/2024) : https://www.codewars.com/kata/57eae20f5500ad98e50002c5
+
+32 - The Feast of Many Beasts (03/03/2024) : https://www.codewars.com/kata/5aa736a455f906981800360d
