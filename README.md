@@ -65,3 +65,5 @@
 32 - The Feast of Many Beasts (03/03/2024) : https://www.codewars.com/kata/5aa736a455f906981800360d
 
 33 - Abbreviate a Two Word Name (04/03/2024) : https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
+
+34 - Keep Hydrated! (05/03/2024) : https://www.codewars.com/kata/582cb0224e56e068d800003c
