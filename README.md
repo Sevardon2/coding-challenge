@@ -69,3 +69,5 @@
 34 - Keep Hydrated! (05/03/2024) : https://www.codewars.com/kata/582cb0224e56e068d800003c
 
 35 - Convert Number to Reversed Array of Digits (06/03/2024) : https://www.codewars.com/kata/5583090cbe83f4fd8c000051
+
+36 - Is n Divisible by x and y? (07/03/2024) : https://www.codewars.com/kata/5545f109004975ea66000086
