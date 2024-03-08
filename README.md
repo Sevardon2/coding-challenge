@@ -71,3 +71,5 @@
 35 - Convert Number to Reversed Array of Digits (06/03/2024) : https://www.codewars.com/kata/5583090cbe83f4fd8c000051
 
 36 - Is n Divisible by x and y? (07/03/2024) : https://www.codewars.com/kata/5545f109004975ea66000086
+
+37 - A Needle in the Haystack (08/03/2024) : https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
