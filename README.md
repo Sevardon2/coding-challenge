@@ -73,3 +73,5 @@
 36 - Is n Divisible by x and y? (07/03/2024) : https://www.codewars.com/kata/5545f109004975ea66000086
 
 37 - A Needle in the Haystack (08/03/2024) : https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
+
+38 - Lost Without a Map (09/03/2024) : https://www.codewars.com/kata/57f781872e3d8ca2a000007e
