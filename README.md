@@ -75,3 +75,5 @@
 37 - A Needle in the Haystack (08/03/2024) : https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
 
 38 - Lost Without a Map (09/03/2024) : https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+
+39 - Beginner Series #1 School Paperwork (10/03/2024) : https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd
