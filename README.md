@@ -77,3 +77,5 @@
 38 - Lost Without a Map (09/03/2024) : https://www.codewars.com/kata/57f781872e3d8ca2a000007e
 
 39 - Beginner Series #1 School Paperwork (10/03/2024) : https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd
+
+40 - Are You Playing Banjo? (11/03/2024) : https://www.codewars.com/kata/53af2b8861023f1d88000832
