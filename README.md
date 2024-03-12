@@ -79,3 +79,5 @@
 39 - Beginner Series #1 School Paperwork (10/03/2024) : https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd
 
 40 - Are You Playing Banjo? (11/03/2024) : https://www.codewars.com/kata/53af2b8861023f1d88000832
+
+41 - How good are you really? (12/03/2024) : https://www.codewars.com/kata/5601409514fc93442500010b
