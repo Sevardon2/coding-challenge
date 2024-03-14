@@ -83,3 +83,5 @@
 41 - How good are you really? (12/03/2024) : https://www.codewars.com/kata/5601409514fc93442500010b
 
 42 - Transportation on vacation (13/03/2024) : https://www.codewars.com/kata/568d0dd208ee69389d000016
+
+43 - Invert Values (14/03/2024) : https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
