@@ -85,3 +85,5 @@
 42 - Transportation on vacation (13/03/2024) : https://www.codewars.com/kata/568d0dd208ee69389d000016
 
 43 - Invert Values (14/03/2024) : https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
+
+44 - Reversed Words (15/03/2024) : https://www.codewars.com/kata/51c8991dee245d7ddf00000e
