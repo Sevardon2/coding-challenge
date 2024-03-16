@@ -87,3 +87,5 @@
 43 - Invert Values (14/03/2024) : https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 
 44 - Reversed Words (15/03/2024) : https://www.codewars.com/kata/51c8991dee245d7ddf00000e
+
+45 - Remove Exclamation Marks : https://www.codewars.com/kata/57a0885cbb9944e24c00008e
