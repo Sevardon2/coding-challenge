@@ -89,3 +89,5 @@
 44 - Reversed Words (15/03/2024) : https://www.codewars.com/kata/51c8991dee245d7ddf00000e
 
 45 - Remove Exclamation Marks : https://www.codewars.com/kata/57a0885cbb9944e24c00008e
+
+46 - Find the Smallest Integer in the Array (17/03/2024) : https://www.codewars.com/kata/55a2d7ebe362935a210000b2
