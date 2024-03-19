@@ -93,3 +93,5 @@
 46 - Find the Smallest Integer in the Array (17/03/2024) : https://www.codewars.com/kata/55a2d7ebe362935a210000b2
 
 47 - Count the Monkeys! (18/03/2024) : https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
+
+48 - You Only Need One (19/03/2024) : https://www.codewars.com/kata/57cc975ed542d3148f00015b
