@@ -95,3 +95,5 @@
 47 - Count the Monkeys! (18/03/2024) : https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 
 48 - You Only Need One (19/03/2024) : https://www.codewars.com/kata/57cc975ed542d3148f00015b
+
+49 - Summation (20/03/2024) : https://www.codewars.com/kata/55d24f55d7dd296eb9000030
