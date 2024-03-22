@@ -99,3 +99,5 @@
 49 - Summation (20/03/2024) : https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
 50 - Multiply (21/03/2024) : https://www.codewars.com/kata/50654ddff44f800200000004
+
+51 - Quarter of the Year (22/03/2024) : https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
