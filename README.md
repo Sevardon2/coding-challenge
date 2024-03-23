@@ -101,3 +101,5 @@
 50 - Multiply (21/03/2024) : https://www.codewars.com/kata/50654ddff44f800200000004
 
 51 - Quarter of the Year (22/03/2024) : https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
+
+52 - Basic Mathematical Operations (23/03/2024) : https://www.codewars.com/kata/57356c55867b9b7a60000bd7
