@@ -103,3 +103,5 @@
 51 - Quarter of the Year (22/03/2024) : https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
 
 52 - Basic Mathematical Operations (23/03/2024) : https://www.codewars.com/kata/57356c55867b9b7a60000bd7
+
+53 - Century From Year (24/03/2024) : https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
