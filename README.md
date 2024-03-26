@@ -107,3 +107,5 @@
 53 - Century From Year (24/03/2024) : https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
 
 54 - Opposites Attract (25/03/2024) : https://www.codewars.com/kata/555086d53eac039a2a000083
+
+55 - Sum Arrays (26/03/2024) : https://www.codewars.com/kata/53dc54212259ed3d4f00071c
