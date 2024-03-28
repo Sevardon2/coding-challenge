@@ -111,3 +111,5 @@
 55 - Sum Arrays (26/03/2024) : https://www.codewars.com/kata/53dc54212259ed3d4f00071c
 
 56 - Calculate Average (27/03/2024) : https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
+
+57 - Double Char (28/03/2024) : https://www.codewars.com/kata/56b1f01c247c01db92000076
