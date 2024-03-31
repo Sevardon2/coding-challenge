@@ -115,3 +115,5 @@
 57 - Double Char (28/03/2024) : https://www.codewars.com/kata/56b1f01c247c01db92000076
 
 58 - Count of positives / sum of negatives (29/03/2024) : https://www.codewars.com/kata/576bb71bbbcf0951d5000044
+
+59 - Thinkful - Logic Drills: Traffic light (31/03/2024) : https://www.codewars.com/kata/58649884a1659ed6cb000072
