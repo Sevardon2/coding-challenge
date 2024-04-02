@@ -119,3 +119,5 @@
 59 - Thinkful - Logic Drills: Traffic light (31/03/2024) : https://www.codewars.com/kata/58649884a1659ed6cb000072
 
 60 - Jenny's Secret Message (01/04/2024) : https://www.codewars.com/kata/55225023e1be1ec8bc000390
+
+61 - L1: Set Alarm (02/04/2024) : https://www.codewars.com/kata/568dcc3c7f12767a62000038
