@@ -121,3 +121,5 @@
 60 - Jenny's Secret Message (01/04/2024) : https://www.codewars.com/kata/55225023e1be1ec8bc000390
 
 61 - L1: Set Alarm (02/04/2024) : https://www.codewars.com/kata/568dcc3c7f12767a62000038
+
+62 - Removing Elements (03/04/2024) : https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
